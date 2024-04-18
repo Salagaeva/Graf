@@ -18,5 +18,7 @@
 |![Vertex](./pictures/structVertex.jpg)|struct Vertex|
 |![Graph](./pictures/structGraph.jpg)|struct Graph|
 
+## Алгоритмы
+
 
 
