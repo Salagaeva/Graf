@@ -10,9 +10,13 @@
 
   ![graf](./pictures/Graf.png)
 
-## Схема структуры данны
+## Схема структуры данныx
 
-|структура|детали структуры|
+|детали структуры|структура|
 |--------|--------|
+|![Edge](./pictures/structEdge.jpg)|struct Edge|
+|![Vertex](./pictures/structVertex.jpg)|struct Vertex|
+|![Graph](./pictures/structGraph.jpg)|struct Graph|
+
 
 
