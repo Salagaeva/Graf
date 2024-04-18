@@ -24,8 +24,9 @@
 
 ### Изображение города (с циклами)
 
+![example](./pictures/example.png)
 
 ### Результаты поиска путей (без циклов)
 
-
+![ways](./pictures/ways.png)
 
